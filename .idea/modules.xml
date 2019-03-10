@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discord-api.iml" filepath="$PROJECT_DIR$/.idea/modules/discord-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discord-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discord-api_main.iml" group="discord-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discord-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discord-api_test.iml" group="discord-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soundrec.iml" filepath="$PROJECT_DIR$/.idea/modules/soundrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soundrec_main.iml" filepath="$PROJECT_DIR$/.idea/modules/soundrec_main.iml" group="soundrec" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soundrec_test.iml" filepath="$PROJECT_DIR$/.idea/modules/soundrec_test.iml" group="soundrec" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vrb.iml" filepath="$PROJECT_DIR$/.idea/vrb.iml" />
+    </modules>
+  </component>
+</project>
